@@ -32,7 +32,7 @@ CREATE TABLE IF NOT EXISTS migrations(
   version INTEGER
 );
 
-INSERT into migrations(version) VALUES ('1');
+INSERT into migrations(version) VALUES ('2');
 """
 
 
